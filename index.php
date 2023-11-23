@@ -9,5 +9,7 @@
 </head>
 <body>
     <canvas id="canvas"></canvas>
+    <!-- Si activé pas de css ni de offset en js -->
+    <!-- <canvas id="canvas" height="320px" width="480px"></canvas> -->
 </body>
 </html>
